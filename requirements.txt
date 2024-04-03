@@ -1,4 +1,4 @@
 streamlit<=1.32.2
 pandas<=2.2.1 
 jsonschema<=4.21.1
-jsonschema-specifications=2023.12.1
+jsonschema-specifications==2023.12.1
